@@ -1,0 +1,9 @@
+{
+    "cortex-debug.openocdPath": "${env:HOME}/openocd/src/openocd",
+    "terminal.integrated.env.osx": {
+        "PATH": "$HOME/zephyrproject/zephyr/scripts",
+        "ZEPHYR_BASE": "${env:HOME}/zephyrproject/zephyr"
+    },
+    // "terminal.integrated.env.linux": {},
+    // "terminal.integrated.env.windows": {}
+}
