@@ -3,7 +3,8 @@
 .*
 !.git*
 !.editorconfig
-!.vscode
+!.vscode/launch.json
+!.vscode/settings.json
 
 # build folder
 /build*
