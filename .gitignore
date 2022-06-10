@@ -1,2 +1,8 @@
-# build
+# this will handle to macos hidden folders
+# ignore all starts with .* except .git and so on
+.*
+!.git*
+!.editorconfig
+
+# build folder
 /build*
