@@ -4,4 +4,4 @@
   - https://youtu.be/t-t-boemUZE
 
 - Check this Blog post
-  - https://www.mrgreensworkshop.com/posts/2022-06-10-id_raspi_pico_zephyr_os_part2
+  - https://www.mrgreensworkshop.com/posts/2022-06-10-raspberry-pi-pico-zephyr-os-part-2
